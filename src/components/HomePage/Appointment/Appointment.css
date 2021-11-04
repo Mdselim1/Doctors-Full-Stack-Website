@@ -1,0 +1,38 @@
+.appointment-doctor-box{
+    background: url(../../images/appointment-bg.png);
+    background-size: cover;
+    background-position:50% left;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+    margin: 150px 0 100px;
+}
+
+.appointment-doctor-box::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(64, 71, 91, 0.9);
+    z-index: -1;
+}
+
+.appointment-title{
+    font-size: 53px;
+    font-weight: 700;
+    line-height: 1.7;
+    color: #fff;
+}
+
+.appoinment-para{
+    font-size: 17px;
+    line-height: 1.7;
+    font-weight: 500;
+    color: #fff;
+}
+
+.doctor-img img {
+    margin-top: -155px;
+}
