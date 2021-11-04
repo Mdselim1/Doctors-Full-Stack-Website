@@ -32,7 +32,8 @@ const Header = () => {
                     <div className="banner-content-text">
                     <h1 className="banner-text-title">Your New Smile<br /> Start Here</h1>
                             <p className="banner-text-para">Our mission is to provide high quality dentistry in a comfortable,efficient and compassionate environment of care.We further strive to educate our children and parentsin preventative dentistry as a way of life.</p>
-                            <Link className="common-button">Get Appointment</Link>
+                                    <Link className="common-button">Get Appointment <i className="fas fa-arrow-right ms-3"></i></Link>
+                                    
             </div>
                     </Col>
                     <Col lg={6} sm={12}>

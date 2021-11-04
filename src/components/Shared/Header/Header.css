@@ -75,6 +75,7 @@
     background:linear-gradient(to right, #17D2B6, #10CFE2) ;
     border-radius: 5px;
     color: #fff;
+    margin: 20px 0;
 }
 .common-button:hover{
     background:linear-gradient(to right,#10CFE2, #17D2B6) ;
