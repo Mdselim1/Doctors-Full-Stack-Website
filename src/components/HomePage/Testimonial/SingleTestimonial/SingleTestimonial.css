@@ -1,0 +1,16 @@
+.review-para{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #595762;
+}
+
+.testo-name{
+    color: #5FC7C7;
+    font-weight: 600;
+}
+
+.testo-address{
+    color: #8F8C9B;
+    font-weight: 500;
+}
