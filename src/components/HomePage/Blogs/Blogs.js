@@ -22,7 +22,7 @@ const Blogs = () => {
                 <Row>
                     <Col lg={4}>
                         <div className="blog-default p-4">
-                            <h3> Rashed Kabir </h3>
+                            <h3 className="blog-name"> Rashed Kabir </h3>
                             <p>22 Aug , 2021</p>
                             <h3> Check At Least A Doctor in a year for your teath</h3>
                             <span><i className="fas fa-long-arrow-alt-right"></i></span>

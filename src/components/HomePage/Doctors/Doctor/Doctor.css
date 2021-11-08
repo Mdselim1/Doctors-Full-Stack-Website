@@ -1,0 +1,15 @@
+.single-doctor h3{
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px 0;
+    color: #3C3C3E;
+}
+.single-doctor h4{
+    font-size: 16px;
+    font-weight: 500;
+    color: #BDBCBF;
+}
+.phone-color{
+    color: #5FC7C7;
+    margin-right: 10px;
+}

@@ -1,4 +1,27 @@
 .blog-default{
     background: linear-gradient(to right, #17D2B6, #10CFE2);
     border-radius: 5px;
+    color: #fff;
+}
+
+.blog-default .blog-name{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.blog-default h3{
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 1.7;
+    margin-bottom: 50px;
+}
+.blog-default p{
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.blog-default span{
+    font-size: 28px;
 }
